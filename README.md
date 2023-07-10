@@ -1,6 +1,8 @@
 # 💫 About Me: 
-I am Wilkson Junior, 22 years old. Backend developer<br><br>
-🌱 I’m currently learning Java, Spring<br>
+PT-BR: Wilkson Junior, 22 anos. Desenvolvedor backend, atualmente com foco na plataforma Java. Estudante de Engenharia da Computação, Técnico em Informática. Esse é meu portfolio, nele estão meus projetos pessoais e projetos desenvolvidos em cursos que fiz até aqui (divididos respectivamente por "projeto-pessoal" e "projeto-de-curso").<br><br>
+
+EN: Wilkson Junior, 22 years old. Backend developer, currently focusing on the Java platform. Computer Engineering student, Computer Technician. This is my portfolio, where you can find my personal projects and projects developed during the courses I have taken so far (separated accordingly into "personal-projects" and "course-projects").<br><br>
+
 
 
 ## 🌐 Socials:
